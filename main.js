@@ -1,1 +1,2 @@
 let = money;
+let = income;
